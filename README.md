@@ -1,7 +1,7 @@
 # Documentation
 
 #### Imports
-```json
+```
 I want to {
   do some math.
   use pandas.
